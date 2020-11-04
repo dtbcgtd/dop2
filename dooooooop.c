@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+//Boyer–Moore–Horspool algorithm//
 int len(char* str, int max_len) {
 	int i;
 	for (i = 0; i < max_len; i++) {
